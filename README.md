@@ -14,9 +14,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Instructions
 1. Open the bot.js file and put your discord bot token on line 5 where it says (const TOKEN = ""; //put discord bot token here)
-2.  You can change the folder where images are downlaoded by changing the directory path on line 15 (const dir = ".\\Assets\\";// the folder where the images go to feel free to change this)
+2.  Create a new folder called Assets
 3. Run the bot by using this command (node bot.js) in the command prompt
-6. Improve this repo, and DM me on [Discord](https://discord.gg/eUXXpFF9Ww), [TikTok](https://www.tiktok.com/@hunterg297), and I'll feature you in a future video!
+4. Improve this repo, and DM me on [Discord](https://discord.gg/eUXXpFF9Ww), [TikTok](https://www.tiktok.com/@hunterg297), and I'll feature you in a future video!
 
 <br>
 
